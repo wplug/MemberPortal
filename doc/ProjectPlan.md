@@ -22,7 +22,9 @@
 > Section needs clarification on who we are serving, and who is responsible
 > for ensuring we serve these members needs.
 
-- Membership Committee Members
+- Technology Committee Members
+- WPLUG Board of Directors Members
+- End users (members and administrators) who will be using the portal
 - Interested Parties that want to contribute
 
 ## User Stories
@@ -34,7 +36,12 @@
 
 - As a WPLUG member, I would like to renew my dues online because online bill-pay is easier for me than managing cash.
 - As a WPLUG member, I would like to receive renewal reminders in increments of 30, 15, and 5 day notices when my membership needs renewing, so that I never fall in areers.
-- As a Planning Event Coordinator I would like to make requests for funds for an event through this community portal and have it voted on, so that I may gauge interest in what I am proposing and have proper funding when its resolved so that I dont have to manage these things myself and have a valid paper trail.
+- As a WPLUG member, I would like to be able to update my own contact information when necessary, because it is easier to do so via the portal than to seek out a WPLUG board member to have the changes made manually.
+- As a portal end-user (WPLUG member or former member), I would like to be able to change my password when I deem it to be necessary.
+- As a portal end-user (WPLUG member or former member), I would like to be able to recover my password automatically if it is lost or forgotten, via a link sent to an e-mail address currently associated with my user record.
+- As a portal administrator, I would like to be able to update the contact information of any member or former member.
+- As a portal administrator, I would like to be able to create new member records as required.
+- As a Planning Event Coordinator I would like to make requests for funds for an event through this community portal and have it voted on, so that I may gauge interest in what I am proposing and have proper funding when its resolved so that I dont have to manage these things myself and have a valid paper trail.  <i>(NOTE:  Out of scope for initial release.)</i>
 
 > **Note:** As this is a pre-spec document, feel free to grow the user stores as much as required - they make for great targeting for milestones when planning the project.
 
